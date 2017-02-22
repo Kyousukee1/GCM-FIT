@@ -1,0 +1,27 @@
+From the WordPress 4.7.2 release post: WordPress versions 4.7.1 and earlier are affected by three security issues:
+
+The user interface for assigning taxonomy terms in Press This is shown to users who do not have permissions to use it. Reported by David Herrera of Alley Interactive.
+WP_Query is vulnerable to a SQL injection (SQLi) when passing unsafe data. WordPress core is not directly vulnerable to this issue, but we’ve added hardening to prevent plugins and themes from accidentally causing a vulnerability. Reported by Mo Jangda (batmoo).
+A cross-site scripting (XSS) vulnerability was discovered in the posts list table. Reported by Ian Dunn of the WordPress Security Team.
+From the additional 4.7.2 security disclosure, WordPress versions 4.7.0 and 4.7.1 are affected by the following security issue:
+
+There was an Unauthenticated Privilege Escalation Vulnerability in a REST API Endpoint. Previous versions of WordPress, even with the REST API Plugin, were never vulnerable to this. Reported by Marc-Alexandre Montpas of Sucuri.
+
+List of Files Revised
+wp-admin/about.php
+wp-admin/includes/class-wp-press-this.php
+wp-admin/includes/class-wp-posts-list-table.php
+wp-includes/version.php
+wp-includes/class-wp-query.php
+wp-includes/class-wp-comment.php
+wp-includes/class-wp-term.php
+wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php
+wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php
+wp-includes/class-wp-post.php
+wp-includes/rest-api.php
