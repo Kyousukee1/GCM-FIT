@@ -1,43 +1,43 @@
 .Excel
- -Power View
- .The Power View button has been removed from Insert > Reports on the ribbon
+     -Power View
+     .The Power View button has been removed from Insert > Reports on the ribbon
  
 .OneNote
- -Scanned Images
- .The Scanned Image button has been removed from Insert > Images on the ribbon.
+     -Scanned Images
+     .The Scanned Image button has been removed from Insert > Images on the ribbon.
   
 .Outlook
- -Autodiscover
- .Outlook 2016 requires Autodiscover to be configured, or it won’t be able to connect to Exchange Server.
+     -Autodiscover
+     .Outlook 2016 requires Autodiscover to be configured, or it won’t be able to connect to Exchange Server.
  
- -Cached Exchange Mode Sync Slider
- .There are three new options for how much mail is available when you’re working offline and you’re using Cached Exchange Mode.
+     -Cached Exchange Mode Sync Slider
+     .There are three new options for how much mail is available when you’re working offline and you’re using Cached Exchange Mode.
  
- -Exchange Server support
- .Outlook 2016 doesn’t support connecting to Exchange Server 2007.
+     -Exchange Server support
+     .Outlook 2016 doesn’t support connecting to Exchange Server 2007.
  
- -Outlook Social Connector
- Access to LinkedIn, Facebook, and other social media sites has been removed.
+     -Outlook Social Connector
+     Access to LinkedIn, Facebook, and other social media sites has been removed.
  
- -People Pane
- .The People Pane is off by default. Also, the Account Settings option has been removed.
+     -People Pane
+     .The People Pane is off by default. Also, the Account Settings option has been removed.
  
- -PRF files
- .PRF files for configuring Exchange Server accounts are no longer supported.
+     -PRF files
+     .PRF files for configuring Exchange Server accounts are no longer supported.
  
 .PowerPoint
- -HTML Files
- .Opening an HTML file is no longer supported
+     -HTML Files
+     .Opening an HTML file is no longer supported
  
 .Word
- -Blogging
- .The ability to publish a document as a blog post to Blogger (www.blogger.com) is no longer supported.
+     -Blogging
+     .The ability to publish a document as a blog post to Blogger (www.blogger.com) is no longer supported.
 
- -Grammar & Style
- .The Grammar & Style option has been removed from the Writing Style drop-down menu in the “When correcting spelling and grammar in Word” section under File > Options > Proofing.
+     -Grammar & Style
+     .The Grammar & Style option has been removed from the Writing Style drop-down menu in the “When correcting spelling and grammar in Word” section under File > Options > Proofing.
 
- -Korean data recognizers
- .Korean data recognizers are no longer available under File > Options > Proofing > AutoCorrect Options > Actions.
+     -Korean data recognizers
+     .Korean data recognizers are no longer available under File > Options > Proofing > AutoCorrect Options > Actions.
 
- -Research
- .The Research button has been removed from Review > Proofing on the ribbon.
+     -Research
+     .The Research button has been removed from Review > Proofing on the ribbon.
